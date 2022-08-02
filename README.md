@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <h3> Hi there 🤚 </h3>
   <li> I am Sujung Han from South Korea and I am interested in Data Science.</li>
   <li> I’m currently taking Machine Learning Expert Training Course for a Big Data Analysis.</li>
-  <li>  I've done Semi-project about 'Red Tide Environment Classification' with R. </li>
+  <li>  I've done Semi-project about 'Red Tide Prediction' with R. </li>
   <li>  And now I am on another project about Discovering the Indicators of Sports Image using opencv. </li>
  </div>
  
