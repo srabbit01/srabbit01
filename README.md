@@ -55,7 +55,7 @@ Here are some ideas to get you started:
    <br>
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srabbit01&layout=compact&theme=graywhite&show_icons=true&border_color=ffffff)](https://github.com/srabbit01/)
-   [![Jungmyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=srabbit01&show_icons=true&theme=graywhite&border_color=ffffff&hide=issues,contribs)](https://github.com/srabbit01/github-readme-stats)
+   [![Crystal Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=srabbit01&show_icons=true&theme=graywhite&border_color=ffffff&hide=issues,contribs)](https://github.com/srabbit01/github-readme-stats)
    <br>
   </div> 
 </div>
