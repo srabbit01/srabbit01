@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align=center> 
  <div> 
  
-  <h3> Hi there 🤚, I am Crystal Han (한수정) ! </h3>
+  <h3> 🤚 Hi there, I am Crystal Han (한수정) ! </h3>
   <li> I am from South Korea and interested in Data Science.</li>
   <li> I’m currently taking Machine Learning Expert Training Course for a Big Data Analysis.</li>
   <li>  I've done Semi-project about 'Red Tide Prediction' with R. </li>
