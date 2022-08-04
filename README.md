@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <div align=center> 
  <div> 
  
-  <h3> Hi there 🤚 </h3>
-  <li> I am Sujung Han from South Korea and I am interested in Data Science.</li>
+  <h3> Hi there 🤚, I am Sujung Han </h3>
+  <li> I am from South Korea and interested in Data Science.</li>
   <li> I’m currently taking Machine Learning Expert Training Course for a Big Data Analysis.</li>
   <li>  I've done Semi-project about 'Red Tide Prediction' with R. </li>
   <li>  And now I am on another project about Discovering the Indicators of Sports Image using opencv. </li>
