@@ -57,7 +57,7 @@ Here are some ideas to get you started:
    <br>
    <h3> 🗣Languages & Stats🗣 </h3>
    <br>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srabbit01&theme=flag-india&show_icons=true)
    <br>
    flag-india
    
