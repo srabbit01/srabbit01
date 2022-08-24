@@ -3,13 +3,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on studying 'Data Science' to collaborate with 'Environment Data'
 - 🌱 I’m currently learning DataScience
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on 'Environment Data Analysis'
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about 'Basic Environmental Knowledge'
+- 📫 How to reach me: srabbit01@naver.com
+- 😄 Pronouns: She
 - ⚡ Fun fact: ...
 -->
 
@@ -17,9 +17,13 @@ Here are some ideas to get you started:
  <div> 
  
   <h3> 🤚 Hi there, I am Crystal Han (한수정) ! </h3>
-  <li> I’m currently taking Machine Learning Expert Training Course for a Big Data Analysis. </li>
-  <li> I've done Semi-project about 'Red Tide Prediction' with R. </li>
-  <li> And now I am on another project about Discovering the Indicators of Sports Image using opencv. </li>
+  <li> I'm currently a senior in KyungHee university. </li>
+  <li> I've took 'Data Analysis Expert Training Course' to strengthen my data analysis techniques. </li>
+  <li> I've done Semi-projects below. </li>
+  <li> 1. 'Sentiment analysis of the movie Cats' with Python. </li>
+  <li> 2. 'Red Tide Prediction' with R. </li>
+  <li> 3. 'Indicators of Sports Image' with Python. </li>
+  <li> And now I'm preparing for graduate school to become an environmental data analysis expert. </li>
  </div>
  
   <div> 
