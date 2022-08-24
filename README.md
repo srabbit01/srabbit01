@@ -57,13 +57,13 @@ Here are some ideas to get you started:
    <br>
    <h3> 🗣Languages & Stats🗣 </h3>
    <br>
+    <div align="center">
+     
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srabbit01&layout=compact&theme=flag-india)
+     
+     ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=srabbit01&show_icons=true&theme=flag-india)
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srabbit01&layout=compact&theme=flag-india)
-   
-   <br>
-   
-   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=srabbit01&show_icons=true&theme=flag-india)
-   
+    </div>
    <br>
   </div> 
 </div>
