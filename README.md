@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: srabbit01@naver.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: ...
+align=center
 -->
 
-<div align=center> 
+<div> 
  <div> 
  
   <h3> 🤚 Hi there, I am Crystal Han (한수정) ! </h3>
