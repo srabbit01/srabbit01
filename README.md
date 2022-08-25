@@ -60,7 +60,6 @@ align=center
    <br>
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srabbit01&layout=compact&theme=flag-india)
-   
    ![srabbit01's github stats](https://github-readme-stats.vercel.app/api?username=srabbit01&show_icons=true&theme=flag-india)
    
    <br>
