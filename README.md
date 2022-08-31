@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 align=center
 -->
 
-<div> 
+<div align=center> 
  <div> 
  
   <h3> 🤚 Hi there, I am Crystal Han (한수정) ! </h3>
