@@ -25,7 +25,7 @@ align=center
   <li> 1. 'Sentiment analysis of the movie Cats' with Python. </li>
   <li> 2. 'Red Tide Prediction' with R. </li>
   <li> 3. 'Indicators of Sports Image' with Python. </li>
-  <li> And now I'm preparing for graduate school to become an environmental data analysis expert. </li>
+  <li> And now I'm preparing for graduate school to become an environmental expert. </li>
  </div>
  
   <div> 
