@@ -18,14 +18,13 @@ align=center
  <div> 
  
   <h3> 🤚 Hi there, I am Crystal Han (한수정) ! </h3>
-  <li> I'm currently a senior in KyungHee university. </li>
+  <li> I'm currently in the master's course in Seoul National university. </li>
   <li> I've took 'Data Analysis Expert Training Course' to strengthen my data analysis techniques. </li>
   <li> I've wrote a research essay about 'Analysis of Energy-Self-Standing Smart Farm Costs and Benefits as a Climate Change Adaptation'.</li>
   <li> I've done Semi-projects below. </li>
   <li> 1. 'Sentiment analysis of the movie Cats' with Python. </li>
   <li> 2. 'Red Tide Prediction' with R. </li>
   <li> 3. 'Indicators of Sports Image' with Python. </li>
-  <li> And now I'm preparing for graduate school to become an environmental expert. </li>
  </div>
  
   <div> 
